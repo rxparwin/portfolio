@@ -61,7 +61,13 @@ p {
 .tab button.active {
     background-color: #ccc;
 }
-
+/*image float left*/
+.img1 {
+	float: Left;
+	border: solid;
+	margin: 4px;
+	
+}
 /* Style the tab content */
 .tabcontent {
     display: none;
